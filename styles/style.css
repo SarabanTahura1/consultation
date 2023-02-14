@@ -1,0 +1,43 @@
+*{font-family: 'EB Garamond', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.banner-input-box{
+    width: 400px;
+}
+.criminal-low-style{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+border: 1px solid #E7E7E7;
+}
+.carousel-img-1{
+    height: 100vh;
+
+background:linear-gradient( #F15B22 0%, rgba(241, 91, 34, 0) 100%),url(../images/Rectangle\ 4.png);
+background-repeat: no-repeat;
+margin-bottom: -100px;
+}
+
+.carousel-img-2{
+    height: 100vh;
+
+    background:linear-gradient( #F15B22 0%, rgba(241, 91, 34, 0) 100%),url(../images/Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    margin-bottom: -100px;
+ 
+    
+
+}
+.carousel-img-3{
+    height: 100vh;
+
+    background:linear-gradient( #F15B22 0%, rgba(241, 91, 34, 0) 100%),url(../images/Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    margin-bottom: -100px;
+}
+.at-style{
+    background-color: #F3F3F3;
+    margin-bottom: 20px;
+ }
